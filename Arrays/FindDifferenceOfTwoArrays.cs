@@ -1,3 +1,5 @@
+//My solution to the problem : find the difference of two arrays
+
 using System.Collections.Generic;
 
 public class Solution
